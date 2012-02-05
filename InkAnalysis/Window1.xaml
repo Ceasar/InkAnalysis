@@ -1,0 +1,10 @@
+﻿<Window x:Class="InkAnalysis.Window1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:m="clr-namespace:InkAnalysis" 
+    Title="InkAnalysis" Height="600" Width="800"
+    >
+
+    <InkCanvas Width="Auto" Height="Auto" Name="myInkCanvas" EditingMode="InkAndGesture" Gesture="OnGesture" Loaded="onLoaded" StrokeCollected="onStrokeCollected" StrokeErasing="onStrokeErasing" />
+    
+</Window>

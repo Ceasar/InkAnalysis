@@ -1,0 +1,17 @@
+obj\Debug\ResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2005\Projects\InkAnalysis\InkAnalysis\obj\Debug\Window1.baml
+D:\Documents\Visual Studio 2005\Projects\InkAnalysis\InkAnalysis\obj\Debug\Window1.g.cs
+D:\Documents\Visual Studio 2005\Projects\InkAnalysis\InkAnalysis\obj\Debug\App.g.cs
+D:\Documents\Visual Studio 2005\Projects\InkAnalysis\InkAnalysis\obj\Debug\InkAnalysis_MarkupCompile.cache
+obj\Debug\InkAnalysis.g.resources
+obj\Debug\InkAnalysis.Properties.Resources.resources
+obj\Debug\InkAnalysis.csproj.GenerateResource.Cache
+.\bin\Debug\InkAnalysis.exe
+.\bin\Debug\InkAnalysis.pdb
+.\bin\Debug\IAWinFX.dll
+.\bin\Debug\Microsoft.Ink.Analysis.dll
+.\bin\Debug\Microsoft.Ink.Analysis.xml
+.\bin\Debug\IAWinFX.xml
+obj\Debug\InkAnalysis.exe
+obj\Debug\InkAnalysis.pdb
+D:\Documents\Visual Studio 2005\Projects\InkAnalysis\InkAnalysis\obj\Debug\InkAnalysis_MarkupCompile.lref
